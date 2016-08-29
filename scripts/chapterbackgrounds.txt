@@ -1,0 +1,27 @@
+    "chapters"
+    {
+            1       "background_upward"
+            2       "background_upward"
+            3       "background_2fort"
+            4       "background_2fort"
+            5       "background_mvm"
+            6       "background_mvm"
+	        7       "background_gravelpit"
+            8       "background_gravelpit"
+	        9       "title_team"
+            10      "title_team"
+    }
+    "BackgroundMaps"
+    {
+            1       "background_upward"
+            2       "background_upward"
+            3       "background_2fort"
+            4       "background_2fort"
+            5       "background_mvm"
+            6       "background_mvm"
+	        7       "background_gravelpit"
+            8       "background_gravelpit"
+	        9       "title_team"
+            10      "title_team"
+    }
+
